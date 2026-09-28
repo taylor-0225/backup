@@ -1,0 +1,9 @@
+{
+  "format": "authenticator-encrypted-backup",
+  "v": 1,
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "m0PbYWMG/tmHt6kDRyZ5zQ==",
+  "exportDate": "2026-09-28T06:56:34.745Z",
+  "data": "v1.WMXMiKWfsU6pKXdx.2n2adMFjhyQmvzaydY9+FrYbKnO7tlZq0nh1h4KZ2EKNWTbG8dr/TdfT37ua/wKGIEuzH8iF7dvkVnG3fF9gvAP1BDCBGvDYFv+Nuf1MZXH9/ujIwmBTToYrI9e+wNzhuU+vUmpO15rsCmEn6EsKPtyNhppeZi/w63vtiYXrEvTV1brQ5L3XzFfI74u80HI/yeJ3NVs0+20I3S7yyBSANHmUzgNzrnkKD/8Kz1FXQva5ZlXNNOP352p0ob0dM8kDKT7jeDjCLnl5D/eKJv9Xo3G4vlmgXXIvZRKKG2SFNrzRKCZffLEjCe8/91WZHsBg7Gs+4mjaCF4="
+}
